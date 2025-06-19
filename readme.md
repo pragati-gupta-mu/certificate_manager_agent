@@ -31,3 +31,11 @@ The **Certificate Manager Agent** is an AI-powered tool designed to manage and a
     - `PROJECT_CONNECTION_STRING`: URL for Azure AI Agent Service Project.
     - `AZURE_OPENAI_DEPLOYMENT`: Name of the Azure AI Agent Service model deployment.
     - `BING_CONNECTION_NAME`: Name of the Bing connection.
+
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Submit a pull request with a detailed description of your changes.
