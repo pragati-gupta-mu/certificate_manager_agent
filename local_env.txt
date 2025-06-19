@@ -1,3 +1,0 @@
-PROJECT_CONNECTION_STRING="https://azure-ai-foundry-pg.services.ai.azure.com/api/projects/foundry_demo"
-AZURE_OPENAI_DEPLOYMENT="gpt-4o"
-BING_CONNECTION_NAME="https://api.bing.microsoft.com/"
